@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👀 I'm interested in [web development](web development)
+- 👀 I'm interested in [web development]
 
 - 📫 How to reach me **paromita05072005@gmail.com**
 
