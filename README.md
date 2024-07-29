@@ -4,7 +4,7 @@
 Paroxy050705/Paroxy050705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<img align="center" width="1500" alt="image" src="https://github.com/Paroxy050705/Paroxy050705/blob/main/images.jpg">
 <h1 align="center">Hi 👋, I'm Paramita Saha😎</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
