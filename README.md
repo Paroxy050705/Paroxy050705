@@ -1,7 +1,7 @@
-![logo](https://github.com/Paroxy050705/banner/blob/main/file_00000000ba2c622f8442d8388f52f337_conversation_id%3D67fe7b93-a6d4-8011-8a81-2f9916614470%26message_id%3D9c8b8b57-a032-4691-b5e6-29fdfeba87ca.png)
+![logo](https://github.com/Paroxy050705/github_banner1/blob/main/image.png.png)
 <h1 align="center">Hi 👋, I'm Paramita Saha</h1>
 <h2 align="center"><i>Welcome to my Github profile!</i></h2>
-<h3 align="center">Turning Ideas into a Programs ,One Semicolon at a Time!</h3>
+<h3 align="center">Turning Ideas into Programs,One Semicolon at a Time!</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
