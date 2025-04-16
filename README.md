@@ -3,7 +3,7 @@
 <h2 align="center"><i>Welcome to my Github profile!</i></h2>
 <h3 align="center">Turning Ideas into a Programs ,One Semicolon at a Time!</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paroxy050705&label=Profile%20views&color=0e75b6&style=flat" alt="paroxy050705" /> </p>
 
