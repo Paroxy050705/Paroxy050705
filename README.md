@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:1400/1*7HDkqgmiG9SFk9U05qXI1g.png)
+![logo](https://github.com/Paroxy050705/banner/blob/main/file_00000000ba2c622f8442d8388f52f337_conversation_id%3D67fe7b93-a6d4-8011-8a81-2f9916614470%26message_id%3D9c8b8b57-a032-4691-b5e6-29fdfeba87ca.png)
 <h1 align="center">Hi 👋, I'm Paramita Saha</h1>
 <h2 align="center"><i>Welcome to my Github profile!</i></h2>
 <h3 align="center">Turning Ideas into a Programs ,One Semicolon at a Time!</h3>
