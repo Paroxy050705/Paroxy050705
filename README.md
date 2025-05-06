@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paroxy050705" alt="paroxy050705" /></a> </p>
 
-<p align="left"> <a href="https://x.com/paroxy0507" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/paroxy0507?logo=twitter&style=for-the-badge" alt="https://x.com/paroxy0507" /></a> </p>
+<p align="left"> <a href="https://x.com/paroxy0507" target="blank"><img src="https://img.shields.io/twitter/follow/paroxy0507?logo=twitter&style=for-the-badge" alt="https://x.com/paroxy0507" /></a> </p>
 
 - 🌱**Committed to continuous learning and building scalable, real-world solutions through code.**
 
 - 💬**Always curious to solve real world problems through programming.**
 
-- 📫 How to reach me **paromita05072005@gmailo.com**
+- 📫 How to reach me **paromita05072005@gmail.com**
 
 - ⚡ Fun fact **My coffee cups and code files often grow together.**
 
